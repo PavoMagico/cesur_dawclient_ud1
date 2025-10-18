@@ -1,0 +1,17 @@
+body {
+
+    .titulo {
+        text-align: center;
+        color: #4a2cad;
+    }
+    
+    #action {
+        border-radius: 25px;
+        font-weight: bold;
+    }
+
+    .humor {
+        color: #991010;
+        font-weight: bold;
+    }
+}
